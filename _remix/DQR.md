@@ -17,6 +17,6 @@ tags:
   Terminal Simulator</a> by Fournaris Georgios (<a href="https://codepen.io/p17four">@p17four</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="//static.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση : Τροποιήστε το κώδικα ώστε να μην βγάζει το ίδιο quote δύο φορές. 
